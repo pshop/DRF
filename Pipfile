@@ -9,6 +9,7 @@ verify_ssl = true
 django = "*"
 djangorestframework = "*"
 pygments = "*"
+ipython = "*"
 
 [requires]
 python_version = "3.7"
